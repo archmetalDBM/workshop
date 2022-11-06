@@ -4,15 +4,24 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This webpage is exclusively used to announce the workshop organised by the Archaeometallurgy research area of the Deutsches Bergbau-Museum Bochum. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Legal Notice
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The Deutsche Bergbau-Museum Bochum is a dependent facility of the
+DMT-Gesellschaft für Lehre und Bildung mbH.
 
+Provider according to § 5 TMG is therefore:  
+DMT-Gesellschaft für Lehre und Bildung mbH  
+Am Bergbaumuseum 28  
+44791 Bochum  
+Phone +49 234 5877-0  
+E-Mail: [info@bergbaumuseum.de](info@bergbaumuseum.de)
 
-[jekyll-organization]: https://github.com/jekyll
+Managing Director: Prof. Susanne Lengyel (chairman), Prof. Dr. Sunhild Kleingärtner, Ulrich Wessel
+
+commercial register: Amtsgericht Bochum, HRB 4052  
+VAT identification number according to § 27 UStG: DE124091698
+
+Regulatory body: Ministerium für Kultur und Wissenschaft des Landes
+Nordrhein Westfalen

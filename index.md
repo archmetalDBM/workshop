@@ -7,7 +7,3 @@
 #
 layout: home
 ---
-
-# Many LIDs, none matching the vessel
-
-A workshop to create a lead isotope community standard
