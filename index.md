@@ -5,8 +5,8 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: page
-title: "Many LIDs, but none matching the vessel"
+layout: home
+title: Many LIDs
 ---
 
 ### Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop
