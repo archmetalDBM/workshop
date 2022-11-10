@@ -9,7 +9,8 @@ layout: home
 title: "Many LIDs, but none matching the vessel"
 ---
 
-## Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop
+## Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- 
+## A brainstorming workshop
 
 * When: February 8-10, 2023
 * Where: Bochum, Deutsches Bergbau-Museum Bochum
@@ -41,7 +42,7 @@ Late Afternoon Session:
 |-----|-----------------------|
 ||Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
 
-#### Day 2: Round Tables + Workshop Dinner
+### Day 2: Round Tables + Workshop Dinner
 **9:00 -- 16:00: Round tables** (Coffee and lunch breaks will be announced spontaneously)
 
 *A tandem moderation (natural scientist + archaeologist) of all round tables is envisaged.* 
@@ -71,7 +72,7 @@ Late Afternoon Session:
   
 **Evening: Workshop dinner** (details will follow soon)
 
-#### Day 3: Plenaries + Round tables
+### Day 3: Plenaries + Round tables
 
 **9:00--13:00**: Morning session
 
