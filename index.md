@@ -16,11 +16,10 @@ title: "Many LIDs, but none matching the vessel"
 * Where: Bochum, Deutsches Bergbau-Museum Bochum
 * Fees: none
 * [Registration](https://terminplaner.dfn.de/DWabVr7CAhFxjY2N)
-* [Program as pdf](assets/workshop_globalid-1.pdf)
+* [Download program](assets/workshop_globalid-1.pdf)
 
-### Day 1: Key Talks + Plenary
-
-Morning session: 
+## Day 1: Key Talks + Plenary
+### Morning session: 
 
 |9:00|Key talks|
 |-----:|:-------------------------------|
@@ -36,18 +35,18 @@ Morning session:
 |13:15|R. Liu (London):<br />Understanding the social roles of metal in early Chinese Bronze Age: a perspective from highly radiogenic lead|
 |13:45|*Lunch break*|
 
-Late Afternoon Session: 
+### Late Afternoon Session: 
 
 |15:00--16:30|Plenary|
 |-----|-----------------------|
 ||Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
 
-### Day 2: Round Tables + Workshop Dinner
+## Day 2: Round Tables + Workshop Dinner
 **9:00 -- 16:00: Round tables** (Coffee and lunch breaks will be announced spontaneously)
 
 *A tandem moderation (natural scientist + archaeologist) of all round tables is envisaged.* 
 
-**Round table 1**: Which data and meta-information is crucial?
+### Round table 1: Which data and meta-information is crucial?
 
 * I. Villa (Bern): Pb from the millimeter to the planet: what else is usually forgotten? -- Introductory talk
 * Topics: 
@@ -56,14 +55,14 @@ Late Afternoon Session:
   c. Artefacts -- and which ones are suitable as reference data? 
   d. By-products (e.g., slags, prills, ores from excavation sites)
   
-**Round table 2**: Standardization of databases 
+### Round table 2: Standardization of databases 
 
 * K. Elger (Potsdam): t.b.a. -- Introductory talk
 * Topics: 
   a. Interconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once? 
   b. Unique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.
   
-**Round table 3**: Statistics and visualization  
+### Round table 3: Statistics and visualization  
 
 * P. Degryse (Leiden/Leuven): Perspectives on data dots, biplots, ellipses and model ages -- Introductory talk
 * Topics: 
@@ -72,18 +71,18 @@ Late Afternoon Session:
   
 **Evening: Workshop dinner** (details will follow soon)
 
-### Day 3: Plenaries + Round tables
+## Day 3: Plenaries + Round tables
 
-**9:00--13:00**: Morning session
+### 9:00--13:00: Morning session
 
 * Impulse talk by Chr. Keller (Berlin): t.b.a.
 * Presentation of the round table discussions and discussion of their results
 * *Short coffee break*
 * Return to the round tables: Define the discussed standards, taking into account the feedback from the plenary
 
-**13:00**: *Lunch break*
+### 13:00: *Lunch break*
 
-**14:30 -- 16:00**: Afternoon session, final plenary
+### 14:30 -- 16:00: Afternoon session, final plenary
 
 * Summary of the second round of round tables
 * Discussion about how to proceed, e.g., 
@@ -91,5 +90,5 @@ Late Afternoon Session:
   - Roadmap to the publication and establishment of the community standard
   - Extension to other methods and materials
   
-**16:00**: Closing of the workshop, take-aways and farewell
+### 16:00: Closing of the workshop, take-aways and farewell
 
