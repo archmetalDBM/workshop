@@ -12,8 +12,8 @@ title: "Many LIDs, but none matching the vessel"
 ## Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- 
 ## A brainstorming workshop
 
-* **February 8-10, 2023**
-* **Deutsches Bergbau-Museum Bochum**, Am Bergbaumuseum 31, 44791 Bochum, Germany; [(map)](https://goo.gl/maps/WSwNwKTydiER1Wg56)
+* February 8-10, 2023
+* Deutsches Bergbau-Museum Bochum, Am Bergbaumuseum 31, 44791 Bochum, Germany [(Map)](https://goo.gl/maps/f6aSnYBZnzhVebAc9)
 * Fees: none
 * [Registration](https://terminplaner.dfn.de/DWabVr7CAhFxjY2N)
 * [Download program](assets/workshop_globalid-1.pdf)
@@ -80,7 +80,7 @@ title: "Many LIDs, but none matching the vessel"
 * *Short coffee break*
 * Return to the round tables: Define the discussed standards, taking into account the feedback from the plenary
 
-#### 13:00: *Lunch break*
+#### *13:00: Lunch break*
 
 ### 14:30 -- 16:00: Afternoon session, final plenary
 
