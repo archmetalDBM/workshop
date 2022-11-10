@@ -28,4 +28,4 @@ Nordrhein Westfalen
 
 *** 
 
-Webpage powered by [Jekyll](https://jekyllrb.com/) & [Minimal](https://jekyll.github.io/minima/)
+Webpage powered by [Jekyll](https://jekyllrb.com/) & [Minima](https://jekyll.github.io/minima/).
