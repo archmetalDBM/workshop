@@ -5,13 +5,11 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: home
+layout: page
 title: "Many LIDs, but none matching the vessel"
 ---
 
-### Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences 
-
-## A brainstorming workshop
+### Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- A brainstorming workshop
 
 * When: February 8-10, 2023
 * Where: Bochum, Deutsches Bergbau-Museum Bochum
