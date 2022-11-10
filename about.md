@@ -25,3 +25,7 @@ VAT identification number according to § 27 UStG: DE124091698
 
 Regulatory body: Ministerium für Kultur und Wissenschaft des Landes
 Nordrhein Westfalen
+
+*** 
+
+Webpage powered by (Jekyll)[https://jekyllrb.com/] & [Minimal](https://jekyll.github.io/minima/)
