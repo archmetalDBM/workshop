@@ -12,8 +12,8 @@ title: "Many LIDs, but none matching the vessel"
 ## Developing a community standard for the publication and long-term archiving of lead isotope data in the archaeological sciences -- 
 ## A brainstorming workshop
 
-* When: February 8-10, 2023
-* Where: Bochum, Deutsches Bergbau-Museum Bochum
+* **February 8-10, 2023**
+* **Deutsches Bergbau-Museum Bochum**, Am Bergbaumuseum 31, 44791 Bochum, Germany; [(map)](https://goo.gl/maps/WSwNwKTydiER1Wg56)
 * Fees: none
 * [Registration](https://terminplaner.dfn.de/DWabVr7CAhFxjY2N)
 * [Download program](assets/workshop_globalid-1.pdf)
@@ -42,11 +42,11 @@ title: "Many LIDs, but none matching the vessel"
 ||Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
 
 ## Day 2: Round Tables + Workshop Dinner
-**9:00 -- 16:00: Round tables** (Coffee and lunch breaks will be announced spontaneously)
+### 9:00 -- 16:00: Round tables (Coffee and lunch breaks will be announced spontaneously)
 
 *A tandem moderation (natural scientist + archaeologist) of all round tables is envisaged.* 
 
-### Round table 1: Which data and meta-information is crucial?
+#### Round table 1: Which data and meta-information is crucial?
 
 * I. Villa (Bern): Pb from the millimeter to the planet: what else is usually forgotten? -- Introductory talk
 * Topics: 
@@ -55,21 +55,21 @@ title: "Many LIDs, but none matching the vessel"
   c. Artefacts -- and which ones are suitable as reference data? 
   d. By-products (e.g., slags, prills, ores from excavation sites)
   
-### Round table 2: Standardization of databases 
+#### Round table 2: Standardization of databases 
 
 * K. Elger (Potsdam): t.b.a. -- Introductory talk
 * Topics: 
   a. Interconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once? 
   b. Unique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.
   
-### Round table 3: Statistics and visualization  
+#### Round table 3: Statistics and visualization  
 
 * P. Degryse (Leiden/Leuven): Perspectives on data dots, biplots, ellipses and model ages -- Introductory talk
 * Topics: 
   a. Visualization, statistic and processing tools, methods -- what is really useful and needed by the community? What is required, what would be nice-to-have? 
   b. Reporting -- What is proper reporting?
   
-**Evening: Workshop dinner** (details will follow soon)
+### Evening: Workshop dinner (details will follow soon)
 
 ## Day 3: Plenaries + Round tables
 
@@ -80,7 +80,7 @@ title: "Many LIDs, but none matching the vessel"
 * *Short coffee break*
 * Return to the round tables: Define the discussed standards, taking into account the feedback from the plenary
 
-### 13:00: *Lunch break*
+#### 13:00: *Lunch break*
 
 ### 14:30 -- 16:00: Afternoon session, final plenary
 
