@@ -42,7 +42,7 @@ title: "Many LIDs, but none matching the vessel"
 ||Current methodological challenges for lead isotopy<br />Existing approaches to a community standard<br />Pro and cons of a community standard|
 
 ## Day 2: Round Tables + Workshop Dinner
-### 9:00 -- 16:00: Round tables (Coffee and lunch breaks will be announced spontaneously)
+### 9:00 -- 16:00: Round tables 
 
 *A tandem moderation (natural scientist + archaeologist) of all round tables is envisaged.* 
 
@@ -68,6 +68,8 @@ title: "Many LIDs, but none matching the vessel"
 * Topics: 
   a. Visualization, statistic and processing tools, methods -- what is really useful and needed by the community? What is required, what would be nice-to-have? 
   b. Reporting -- What is proper reporting?
+
+*Coffee and lunch breaks will be announced spontaneously.*
   
 ### Evening: Workshop dinner (details will follow soon)
 
