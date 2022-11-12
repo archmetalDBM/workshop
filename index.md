@@ -1,4 +1,4 @@
----
+﻿---
 #
 # By default, content added below the "---" mark will appear in the home page
 # between the top bar and the list of recent posts.
@@ -29,7 +29,7 @@ title: "Many LIDs, but none matching the vessel"
 |10:15|G. Artioli (Padua):<br />Existing lead isotope databases|
 |10:45|F. Albarède (Lyon):<br />Geological/geochemical pitfalls|
 |11:15|*Coffee break*|
-|11:45|D. Killick, V. Renson, J. Stephens (Tuscon, Arizona):<br />Lead Isotopes on Archaeological Materials in North American Laboratories|
+|11:45|D. Killick (Tuscon, Arizona), V. Renson (Columbia, Missouri), J. Stephens (Columbia, Missouri):<br />Lead Isotopes on Archaeological Materials in North American Laboratories|
 |12:15|D. Berger (Mannheim):<br />Lead isotopes in tin ingots |
 |12:45|D. Wigg-Wolf (Frankfurt a.M.):<br />Application of lead isotopes for provenance studies in numismatics|
 |13:15|R. Liu (London):<br />Understanding the social roles of metal in early Chinese Bronze Age: a perspective from highly radiogenic lead|
