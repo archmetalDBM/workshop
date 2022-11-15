@@ -24,7 +24,7 @@ title: "Many LIDs, but none matching the vessel"
 |9:00|Key talks|
 |-----:|:-------------------------------|
 |9:00|S. Klein (Bochum):<br />Welcome|
-|9:15|S. Klein, Th. Rose, K. Westner, Y.-K. Hsu (Bochum):<br />GlobaLID -- Vision of the core team, introduction to the app and discovered challenges|
+|9:15|S. Klein (Bochum), Th. Rose (Frankfurt), K. Westner (Bochum), Y.-K. Hsu (Bochum):<br />GlobaLID -- Vision of the core team, introduction to the app and discovered challenges|
 |9:45|Z. Stos-Gale, Gothenburg:<br />Crossing boundaries: 40 years of lead isotope research in archaeology|
 |10:15|G. Artioli (Padua):<br />Existing lead isotope databases|
 |10:45|F. Albarède (Lyon):<br />Geological/geochemical pitfalls|
