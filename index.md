@@ -44,24 +44,24 @@ title: "Many LIDs, but none matching the vessel"
 
 * I. Villa (Bern): Pb from the millimeter to the planet: what else is usually forgotten? -- Introductory talk
 * Topics: 
-  a. Analytical data
-  b. Geological materials
-  c. Artefacts -- and which ones are suitable as reference data? 
+  a. Analytical data  
+  b. Geological materials  
+  c. Artefacts -- and which ones are suitable as reference data?  
   d. By-products (e.g., slags, prills, ores from excavation sites)
   
 #### Round table 2: Standardization of databases 
 
 * K. Elger (Potsdam): t.b.a. -- Introductory talk
 * Topics: 
-  a. Interconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once? 
-  b. Unique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.
+  a. Interconnectivity between different databases: Each group deploys their own data online and develops an API to link other databases. Alternatively, each contributes data to a central database (like GlobaLID) so that all data can be accessed at once?  
+  b. Unique resource identifier (URI) and controlled vocabularies and terminologies; Adoption of unique identifiers, such as the IGSN for samples. Use of thesauri, ontologies, standardized mineral abbreviations, geological period information from e.g., USGS, EarthChem databases; geological time periods vs. orogenic events.  
   
 #### Round table 3: Statistics and visualization  
 
 * P. Degryse (Leiden/Leuven): Perspectives on data dots, biplots, ellipses and model ages -- Introductory talk
 * Topics: 
-  a. Visualization, statistic and processing tools, methods -- what is really useful and needed by the community? What is required, what would be nice-to-have? 
-  b. Reporting -- What is proper reporting?
+  a. Visualization, statistic and processing tools, methods -- what is really useful and needed by the community? What is required, what would be nice-to-have?  
+  b. Reporting -- What is proper reporting?  
 
 *Coffee and lunch breaks will be announced spontaneously.*
   
